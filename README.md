@@ -102,7 +102,7 @@ XGBoost:A high-performance gradient boosting algorithm known for its efficiency 
 
 Gradient Boosting: Sequentially builds models to correct errors made by previous models.
 
-![Screenshot 2024-09-03 121923](https://github.com/user-attachments/assets/17f65312-44dd-4d7d-a108-fd867ea66119)
+
 
 
 # Project Objective
