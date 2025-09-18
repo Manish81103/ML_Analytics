@@ -66,7 +66,6 @@ __4.Matplotlib:__ For plotting graphs and visualizations.
 __5.Scikit-learn:__ For building and implementing models .
 
 
-![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBw_zADGf8kWZBM_OCDNBoQL4Bshx6ltVmjcE-YZjMCaAeODllAAPg-jw&s=10)
 # Data Analysis and Preprocessing
 ### 1.Exploratory Data Analysis (EDA):
 __i.__ Analyzed distributions and relationships between features.
@@ -77,7 +76,7 @@ __iii.__ Visualized data to uncover patterns and insights.
 
 
 
-![Screenshot 2024-09-03 122041](https://github.com/user-attachments/assets/00f05ef8-4343-48d8-8653-3deaf9fdd34f)
+
 
 ### 2.Data Encoding and Scaling:
 
