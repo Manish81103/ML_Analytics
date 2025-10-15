@@ -83,6 +83,26 @@ __iii.__ Visualized data to uncover patterns and insights.
 __i.Encoding:__ Categorical variables were encoded using One Hot Encoder.
 
 __ii. Scaling:__ Numerical features were scaled using Robust Scaler to reduce the impact of outliers.
+
+# Pipeline Implementation
+To make the process efficient and reproducible, pipelines were created for both data transformation and model building:
+
+### Data Transformation Pipeline:
+
+__i.__ Handles missing values.
+
+__ii.__ Encodes categorical variables.
+
+__iii.__ Scales numerical features.
+
+### Model Building Pipeline:
+__i.__ Integrates preprocessing steps with classification algorithms.
+
+__ii.__ Ensures consistent transformation on training and testing data.
+
+__iii.__ Simplifies model training, tuning, and evaluation.
+
+
 # Model Building
 Several classification models were built and evaluated:
 
@@ -92,15 +112,17 @@ __2.Decision Tree Classifier:__ A model that makes decisions by splitting data b
 
 __3.Ensembling Techniques:__
 
-i.Bagging:
+__i.Bagging:__
 
 Random Forest Classifier: Combines multiple decision trees to improve accuracy and robustness.
 
-ii.Boosting:
+__ii.Boosting:__
 
 XGBoost:A high-performance gradient boosting algorithm known for its efficiency and accuracy.
 
 Gradient Boosting: Sequentially builds models to correct errors made by previous models.
+
+<img width="1300" height="715" alt="Screenshot 2025-09-19 105935" src="https://github.com/user-attachments/assets/716d1798-c6a1-4be8-b818-3903a6371d17" />
 
 
 
@@ -126,3 +148,4 @@ __5.__ Use the best-performing model for loan approval predictions.
 This project successfully applied various data analysis and machine learning techniques to predict loan approval. The models developed provide valuable insights and predictions, which can aid in making data-driven lending decisions.
 
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EBq4GseZZD1ZMPL0JABI5FQv3LL14tIYyiDWiQ9-dPmRN4Jl5dIRVRWy&s=10)
+
